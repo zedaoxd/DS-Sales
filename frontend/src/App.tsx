@@ -1,6 +1,7 @@
 import { Container } from "./app.styles";
 import Filter from "./components/Filter";
 import Header from "./components/Header";
+import SalesByDate from "./components/SalesByDate";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Container>
         <Filter />
+        <SalesByDate />
       </Container>
     </>
   );
