@@ -9,6 +9,8 @@ const GlobalStyle = createGlobalStyle`
     --primary-color: #283142;
     --secondary-color: #1b2531;
     --light-color: #e9e9e9;
+    --gray-light-50-color: #9aaabe;
+    --gray-light-100-color: #384459;
   }
 
   body {
